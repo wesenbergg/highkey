@@ -1,13 +1,20 @@
 **HIGHKEY CHALLENGE**
 
-This is Highkey Internship / Tech challenges. Project is made using `react-native-cli`. No external libraries have been used in this project.
+This is Highkey Internship / Tech challenges. Project is made using `react-native-cli`. No external libraries have been used in this project. This project have only been tested with Android emulator _Pixel 3 XL_.
 
 ____________
+
+**How to run**
+
+* For enviroment setup read [rn docs](https://reactnative.dev/docs/environment-setup)
+* Check _package.json_ -> `scripts` for list of avaible commands.\
+For starting application run first `npx react-native start` in one terminal, then `npx react-native run-android` in another.
+_______________
 
 **Challenges**
 
 1. Recreate the UI on the picture below. Please note that functionality is not required.
-![UI](https://www.keds.com/on/demandware.static/-/Sites-keds_us-Library/default/dw643f2c32/content/seasonal-content/promos/2020/04/promoTab-bg-idMe.jpg)
+![UI](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/target.png)
 2. Create a function that turns a random string from lowercase to uppercase. For example, if the coming string is 'highkey', the outcome should be 'HIGHKEY'. To spice up this challenge, usage of the .toUpperCase() method is not allowed.
 
 *NOTE*: For each challenge there is own screen in application. You can switch between screens by pressing 'W' button in the top-right corner.
@@ -29,14 +36,8 @@ __________________
 
 ____________________
 
-**How to use**
-
-* For enviroment setup read [rn docs](https://reactnative.dev/docs/environment-setup)
-* Check _package.json_ -> `scripts` for list of avaible commands
-_______________
-
 **Screenshots**\
 __Exercise 1 screenshot__
-![exercise1](https://www.keds.com/on/demandware.static/-/Sites-keds_us-Library/default/dw643f2c32/content/seasonal-content/promos/2020/04/promoTab-bg-idMe.jpg)\
+![exercise1](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/exercise1.PNG)\
 __Exercise 2 screenshot__
-![exercise2](https://www.keds.com/on/demandware.static/-/Sites-keds_us-Library/default/dw643f2c32/content/seasonal-content/promos/2020/04/promoTab-bg-idMe.jpg)
+![exercise2](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/exercise2.PNG)
