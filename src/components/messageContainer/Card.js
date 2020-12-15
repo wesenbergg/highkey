@@ -67,6 +67,23 @@ const Card = ({item}) => {
   );
 };
 
+const defaultItem = {
+  name: 'Loading',
+  message: 'Loading',
+  avatar: require('../../images/thumb.png'),
+  unreadCount: -1,
+  active: false,
+  time: '0 min',
+};
+
+Card.defaultProps = {
+  item: defaultItem,
+};
+
+ActiveCard.defaultProps = {
+  item: defaultItem,
+};
+
 const styles = StyleSheet.create({
   cardContainer: {
     textAlign: 'center',

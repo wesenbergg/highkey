@@ -12,7 +12,7 @@ import {SafeAreaView, StyleSheet} from 'react-native';
 import ToUppercaseForm from './components/toUppercaseForm';
 
 const Main = () => {
-  const [switchNav, setSwitchNav] = useState(false);
+  const [switchNav, setSwitchNav] = useState(true);
   const switchScreen = () => setSwitchNav(!switchNav);
   return (
     <SafeAreaView style={styles.container}>

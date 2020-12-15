@@ -24,6 +24,10 @@ const AppHeader = ({switchScreen}) => {
   );
 };
 
+AppHeader.defaultProps = {
+  switchScreen: () => false,
+};
+
 const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',

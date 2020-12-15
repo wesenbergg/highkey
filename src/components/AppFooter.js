@@ -20,6 +20,11 @@ const MenuItem = ({icon, disabled}) => {
   );
 };
 
+MenuItem.defaultProps = {
+  icon: 'A',
+  disabled: true,
+};
+
 const AppFooter = () => {
   const messagesIcon = 'M';
   const feedIcon = 'F';
