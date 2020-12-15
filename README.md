@@ -16,12 +16,12 @@ _______________
 1. Recreate the UI on the picture below. Please note that functionality is not required.
 ![UI](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/target.png)
 2. Create a function that turns a random string from lowercase to uppercase. For example, if the coming string is 'highkey', the outcome should be 'HIGHKEY'. To spice up this challenge, usage of the .toUpperCase() method is not allowed.
-
-*NOTE*: For each challenge there is own screen in application. You can switch between screens by pressing 'W' button in the top-right corner.
 __________________
 
 **Key Components and functions**
 
+*Navigation (important!)*
+- For each challenge there is own screen in application. You can switch between screens by pressing _'W' button_ in the top-right corner.
 *Theming*
 - The key features in theming is `Text` component in _src/components_ and _theme.js_ in _src_.
 - `Text` components idea is to make easier to reuse text-features.
