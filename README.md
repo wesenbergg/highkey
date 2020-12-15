@@ -37,7 +37,7 @@ __________________
 ____________________
 
 **Screenshots**\
-__Exercise 1 screenshot__
+__Exercise 1 screenshot__\
 ![exercise1](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/exercise1.PNG)\
-__Exercise 2 screenshot__
+__Exercise 2 screenshot__\
 ![exercise2](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/exercise2.PNG)
