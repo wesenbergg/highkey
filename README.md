@@ -1,6 +1,6 @@
 **HIGHKEY CHALLENGE**
 
-This is Highkey Internship / Tech challenges. Project is made using `react-native-cli`. No external libraries have been used in this project. This project have only been tested with Android emulator _Pixel 3 XL_.
+This is Internship / Tech challenges. Project is made using `react-native-cli`. No external libraries have been used in this project. This project have only been tested with Android emulator _Pixel 3 XL_.
 
 ____________
 
@@ -14,8 +14,7 @@ _______________
 **Challenges**
 
 1. Recreate the UI on the picture below. Please note that functionality is not required.
-![UI](https://raw.githubusercontent.com/wesenbergg/highkey/master/doc/target.png)
-2. Create a function that turns a random string from lowercase to uppercase. For example, if the coming string is 'highkey', the outcome should be 'HIGHKEY'. To spice up this challenge, usage of the .toUpperCase() method is not allowed.
+2. Create a function that turns a random string from lowercase to uppercase. For example, if the coming string is 'testword', the outcome should be 'TESTWORD'. To spice up this challenge, usage of the .toUpperCase() method is not allowed.
 __________________
 
 **Key Components and functions**
