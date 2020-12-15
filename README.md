@@ -25,10 +25,10 @@ __________________
 *Theming*
 - The key features in theming is `Text` component in _src/components_ and _theme.js_ in _src_.
 - `Text` components idea is to make easier to reuse text-features.
-- theme.js idea is to keep all theming values in one place.\
+- theme.js idea is to keep all theming values in one place.
 
 *Exercise 1:*
-- Components can be found in _src/components/messageContainer_\
+- Components can be found in _src/components/messageContainer_
 
 *Exrcise 2:*
 - Components can be found in _src/components/toUppercaseForm_
