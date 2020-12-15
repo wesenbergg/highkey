@@ -22,6 +22,7 @@ __________________
 
 *Navigation (important!)*
 - For each challenge there is own screen in application. You can switch between screens by pressing _'W' button_ in the top-right corner.
+
 *Theming*
 - The key features in theming is `Text` component in _src/components_ and _theme.js_ in _src_.
 - `Text` components idea is to make easier to reuse text-features.
